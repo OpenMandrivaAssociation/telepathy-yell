@@ -8,7 +8,7 @@ Summary:        Temporary submodule to implement draft Call APIs
 
 Group:          Networking/Instant messaging
 License:        LGPLv2+
-URL:            http://telepathy.freedesktop.org/wiki/
+URL:            https://telepathy.freedesktop.org/wiki/
 Source0:        http://telepathy.freedesktop.org/releases/%{name}/%{name}-%{version}.tar.gz
 
 BuildRequires:  dbus-devel
