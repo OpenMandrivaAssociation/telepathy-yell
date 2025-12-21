@@ -11,6 +11,7 @@ License:        LGPLv2+
 URL:            https://telepathy.freedesktop.org/wiki/
 Source0:        http://telepathy.freedesktop.org/releases/%{name}/%{name}-%{version}.tar.gz
 
+BuildRequires:	make
 BuildRequires:  dbus-devel
 BuildRequires:	dbus-glib-devel
 BuildRequires:  libxslt-proc
